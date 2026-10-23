@@ -1,0 +1,20 @@
+# Compiler output (generated on every run)
+output/
+Endiamesos.int
+Symbol.symb
+Telikos.asm
+
+# RARS simulator
+rars*.jar
+*.int
+*.symb
+
+# Python
+__pycache__/
+*.pyc
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
